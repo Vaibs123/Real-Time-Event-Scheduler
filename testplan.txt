@@ -1,0 +1,7 @@
+TESTPLAN
+
+1.  Type command 'make' to make the executable
+2.  An executable is formed 'try1'
+3.  when the executable is formed type './try1 TIMESTAMP(YYYY/MMM/HH/MM/SS)'
+4.  The program starts if all this is started correctly.
+5.  go through the test cases to run the commands.

@@ -1,0 +1,27 @@
+./try1 2000/12/12/12/12
+
+--->Enter Timestamp
+2000/12/12/12/20
+--->Enter activity to be performed at that time:
+d
+--->Request of 'd' at '2000/12/12/12/20' added to the memory
+Time remaining for nearest event to happen: 4 seconds
+--->Enter Timestamp
+2000/12/12/12/12
+/SIGNAL****SIGNAL****SIGNAL
+Recent activity performed: '2000/12/12/12/20 d'
+35
+--->Enter activity to be performed at that time:
+aa
+--->Request of 'aa' at '2000/12/12/12/35' added to the memory
+Time remaining for nearest event to happen: 12 seconds
+--->Enter Timestamp
+Time remaining for nearest event to happen: 4 seconds
+SIGNAL****SIGNAL****SIGNAL
+Recent activity performed: '2000/12/12/12/35 aa'
+2000/12/12/12/12
+Time has already passed. Cannot add to the memory
+Enter a valid timestamp or type 'quit'
+d
+Enter a valid timestamp or type 'quit'
+quit
